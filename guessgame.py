@@ -1,4 +1,5 @@
-winning_num = 53
+import random
+winning_num = random.randint(0,100)
 guess = 1
 num = int(input("guess a number between 1 and 100: "))
 game_over = False
