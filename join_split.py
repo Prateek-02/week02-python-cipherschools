@@ -1,6 +1,9 @@
 #split method
 #convert string to list
 
+user_info = "Prateek,19".split(",")
+print(user_info)
+
 name,age = 'Prateek,19'.split(",")
 print(name)
 print(age)
