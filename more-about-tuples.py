@@ -34,3 +34,4 @@ print(cars)
 #min(),max(),sum
 print(min(mixed))
 print(max(mixed))
+print(sum(mixed))
